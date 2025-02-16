@@ -1,9 +1,9 @@
 # 👋 Hey there, I’m Burak
-# About Me
+## About Me 👨🏽‍💻
 Starting my dev career in testing and test automation, I always had a interest in software engineering. So I spent my time in learning JavaScript and other frontend technologies to transition to a software engineer.
 With my strong background in testing and a basic knowledge of accessibility, I aim for creating high quality software.
 
-## My Stack 
+## My Stack ⚙️
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -32,7 +32,10 @@ With my strong background in testing and a basic knowledge of accessibility, I a
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?logo=supabase&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
-## I'm working on
+## Currently learning 📚
+I am currently doing the [Angular course](https://frontendmasters.com/learn/angular/) from Frontend Masters to deepen my knowledge in Angluar.
+
+## I'm working on 💪🏽
 ### [Cooksphere](https://github.com/b-rak/Cooksphere)
 A recipe sharing platform which lets users discover, save and share recipes.
 
