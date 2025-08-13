@@ -32,9 +32,6 @@ With my strong background in testing and a basic knowledge of accessibility, I a
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?logo=supabase&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
-## Currently learning 📚
-I am currently doing the [Angular course](https://frontendmasters.com/learn/angular/) from Frontend Masters to deepen my knowledge in Angluar.
-
 ## I'm working on 💪🏽
 ### [Cooksphere](https://github.com/b-rak/Cooksphere)
 A recipe sharing platform which lets users discover, save and share recipes.
